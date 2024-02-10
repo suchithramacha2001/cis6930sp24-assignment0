@@ -1,0 +1,2 @@
+[console_scripts]
+assignment0 = assignment0.main:main
